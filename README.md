@@ -14,7 +14,7 @@
         
 <b>Or...</b>
             
-        Signals.signaled("update", callBack);
+        Signals.signaled("change", callBack);
         
     
 <b>Then transmit it to the receiver(s)...</b>
